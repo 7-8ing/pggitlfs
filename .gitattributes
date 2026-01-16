@@ -1,0 +1,1 @@
+librewolf-147.0-1-windows-x86_64-setup.exe filter=lfs diff=lfs merge=lfs -text
